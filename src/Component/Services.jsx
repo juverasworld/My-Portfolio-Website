@@ -49,7 +49,7 @@ export default function Services() {
                     className="flex-1 lg:bg-about lg:bg-bottom  bg-no-repeat mix-blend-lighten mb-12 lg:mb-0">
                         <h2 className='h2 text-accent mb-6'>  What I DO </h2>
                         <h3 className='h3 max-w-[455px] mb-16'>
-                            I am a freeLance Frontend Developer with a growing interest in react and next.js
+                            I am a freeLance Frontend Developer with a growing interest in react, next.js, javascript and tailwind 
                         </h3>
                         <button className='btn btn-sm'>See my work</button>
                     </motion.div>
