@@ -19,7 +19,7 @@ import Work from "./Component/Work"
 function App() {
   return (
 
-    <div className='bg-site bg-no-repeat bg-cover overflow-hidden'>
+    <div className='bg-site bg-no-repeat bg-cover overflow-hidden h-full'>
       <Header/>
      <Banner/>
      <About/>

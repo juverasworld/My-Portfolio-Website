@@ -7,7 +7,7 @@ import { fadeIn } from "../variants";
 const Contact = () => {
     return (<>
         <section className="section py-16 lg:section" id="contact">
-            <div className="container mx-auto">
+            <div className="container mx-auto ">
                 <div className="flex flex-col lg:flex-row">
 
                     <motion.div className="flex-1 flex justify-start  items-center "
